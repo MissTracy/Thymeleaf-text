@@ -1,0 +1,9 @@
+
+----Puppy----
+Name: [(${puppy.name})]
+Favourite snack: [(${puppy.snack})]
+birthDate: [(${puppy.birthDate})]
+weight: [(${puppy.weight})]
+--------------
+
+
